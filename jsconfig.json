@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      // Your custom aliases here
+      "screens/*": [
+        "./components/screens/*"
+      ],
+      "components/*": [
+        "./components/*"
+      ],
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}

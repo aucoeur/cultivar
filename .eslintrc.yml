@@ -17,9 +17,15 @@ plugins:
   - react-hooks
 rules: {
   'comma-dangle': 'off',
+  'import/no-extraneous-dependencies': 'off',
   'no-use-before-define': 'off',
   'padded-blocks': 'off',
   'react/jsx-filename-extension': 'off',
   'react/prop-types': 'off',
   'react/style-prop-object': 'off'
+}
+settings: {
+  'import/resolver': {
+    'babel-module': {}
+  }
 }
