@@ -31,7 +31,7 @@ const style = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'space-between',
 
-    paddingLeft: 5,
+    paddingLeft: 10,
     width: '100%',
   },
   headText: {

@@ -3,6 +3,9 @@
     "baseUrl": "src",
     "paths": {
       // Your custom aliases here
+      "assets/*": [
+        "./assets/*"
+      ],
       "data/*": [
         "./data/*"
       ],
