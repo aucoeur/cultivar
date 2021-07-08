@@ -3,6 +3,7 @@ FEW 2.4 ReactNative Final Project
 
 ## a work in progress 
 <div style="text-align:center">
+<img src="./docs/screenshotv1.png" width="400">
 <img src="./docs/wireframes-draft.png" width="400">
 </div>
 
