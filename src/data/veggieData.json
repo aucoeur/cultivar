@@ -1,0 +1,186 @@
+{
+   "Beans": {
+      "Start Seeds Indoors (weeks before last spring frost)": "—",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "Anytime after",
+      "Minimum Soil Temp. to Germinate (°F)": "48–50",
+      "Cold Hardiness": "Tender",
+      "When to Fertilize": "After heavy bloom and set of pods",
+      "When to Water": "Regularly, from start of pod to set"
+   },
+   "Beets": {
+      "Start Seeds Indoors (weeks before last spring frost)": "—",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "3 before to 3 after",
+      "Minimum Soil Temp. to Germinate (°F)": "39–41",
+      "Cold Hardiness": "Half-hardy",
+      "When to Fertilize": "At time of planting",
+      "When to Water": "Only during drought conditions"
+   },
+   "Broccoli": {
+      "Start Seeds Indoors (weeks before last spring frost)": "6–8",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "2–3 before",
+      "Minimum Soil Temp. to Germinate (°F)": "55–75",
+      "Cold Hardiness": "Hardy",
+      "When to Fertilize": "Three weeks after transplanting",
+      "When to Water": "Only during drought conditions"
+   },
+   "Brussels sprouts": {
+      "Start Seeds Indoors (weeks before last spring frost)": "6–8",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "—",
+      "Minimum Soil Temp. to Germinate (°F)": "55–75",
+      "Cold Hardiness": "Hardy",
+      "When to Fertilize": "Three weeks after transplanting",
+      "When to Water": "At transplanting"
+   },
+   "Cabbage": {
+      "Start Seeds Indoors (weeks before last spring frost)": "6–8",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "1 before to 1 after",
+      "Minimum Soil Temp. to Germinate (°F)": "38–40",
+      "Cold Hardiness": "Hardy",
+      "When to Fertilize": "Three weeks after transplanting",
+      "When to Water": "Two to three weeks before harvest"
+   },
+   "Carrots": {
+      "Start Seeds Indoors (weeks before last spring frost)": "—",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "3–5 before",
+      "Minimum Soil Temp. to Germinate (°F)": "39–41",
+      "Cold Hardiness": "Half-hardy",
+      "When to Fertilize": "Preferably in the fall for the following spring",
+      "When to Water": "Only during drought conditions"
+   },
+   "Cauliflower": {
+      "Start Seeds Indoors (weeks before last spring frost)": "6–8",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "1 before to 1after",
+      "Minimum Soil Temp. to Germinate (°F)": "65–75",
+      "Cold Hardiness": "Half-hardy",
+      "When to Fertilize": "Three weeks after transplanting",
+      "When to Water": "Once, three weeks before harvest"
+   },
+   "Celery": {
+      "Start Seeds Indoors (weeks before last spring frost)": "6–8",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "—",
+      "Minimum Soil Temp. to Germinate (°F)": "60–70",
+      "Cold Hardiness": "Tender",
+      "When to Fertilize": "At time of transplanting",
+      "When to Water": "Once a week"
+   },
+   "Corn": {
+      "Start Seeds Indoors (weeks before last spring frost)": "—",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "2 after",
+      "Minimum Soil Temp. to Germinate (°F)": "46–50",
+      "Cold Hardiness": "Tender",
+      "When to Fertilize": "When eight to ten inches tall, and again when first silk appears",
+      "When to Water": "When tassels appear and cobs start to swell"
+   },
+   "Cucumbers": {
+      "Start Seeds Indoors (weeks before last spring frost)": "2–4",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "1–2 after",
+      "Minimum Soil Temp. to Germinate (°F)": "65–70",
+      "Cold Hardiness": "Very tender",
+      "When to Fertilize": "One week after bloom, and again three weeks later",
+      "When to Water": "Frequently, especially when fruits form"
+   },
+   "Lettuce": {
+      "Start Seeds Indoors (weeks before last spring frost)": "4–6",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "1 before to 2 after",
+      "Minimum Soil Temp. to Germinate (°F)": "40–75",
+      "Cold Hardiness": "Half-hardy",
+      "When to Fertilize": "Two to three weeks after transplanting",
+      "When to Water": "Once a week"
+   },
+   "Melons": {
+      "Start Seeds Indoors (weeks before last spring frost)": "2–4",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "2 after",
+      "Minimum Soil Temp. to Germinate (°F)": "55–60",
+      "Cold Hardiness": "Very tender",
+      "When to Fertilize": "One week after bloom, and again three weeks later",
+      "When to Water": "Once a week"
+   },
+   "Onion sets": {
+      "Start Seeds Indoors (weeks before last spring frost)": "—",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "4 before",
+      "Minimum Soil Temp. to Germinate (°F)": "34–36",
+      "Cold Hardiness": "Hardy",
+      "When to Fertilize": "When bulbs begin to swell, and again when plants are one foot tall",
+      "When to Water": "Only during drought conditions"
+   },
+   "Parsnips": {
+      "Start Seeds Indoors (weeks before last spring frost)": "—",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "0–3 before",
+      "Minimum Soil Temp. to Germinate (°F)": "55–70",
+      "Cold Hardiness": "Hardy",
+      "When to Fertilize": "One year before planting",
+      "When to Water": "Only during drought conditions"
+   },
+   "Peas": {
+      "Start Seeds Indoors (weeks before last spring frost)": "—",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "4–6 before",
+      "Minimum Soil Temp. to Germinate (°F)": "34–36",
+      "Cold Hardiness": "Hardy",
+      "When to Fertilize": "After heavy bloom and set of pods",
+      "When to Water": "Regularly, from start of pod to set"
+   },
+   "Peppers": {
+      "Start Seeds Indoors (weeks before last spring frost)": "8–10",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "—",
+      "Minimum Soil Temp. to Germinate (°F)": "70–80",
+      "Cold Hardiness": "Very tender",
+      "When to Fertilize": "After first fruit-set",
+      "When to Water": "Once a week"
+   },
+   "Potato tubers": {
+      "Start Seeds Indoors (weeks before last spring frost)": "—",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "0–2 after",
+      "Minimum Soil Temp. to Germinate (°F)": "55–70",
+      "Cold Hardiness": "Half-hardy",
+      "When to Fertilize": "At bloom time or time of second hilling",
+      "When to Water": "Regularly, when tubers start to form"
+   },
+   "Pumpkins": {
+      "Start Seeds Indoors (weeks before last spring frost)": "2–4",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "1 after",
+      "Minimum Soil Temp. to Germinate (°F)": "55–60",
+      "Cold Hardiness": "Tender",
+      "When to Fertilize": "Just before vines start to run, when plants are about one foot tall",
+      "When to Water": "Only during drought conditions"
+   },
+   "Radishes": {
+      "Start Seeds Indoors (weeks before last spring frost)": "—",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "1 before to 1 after",
+      "Minimum Soil Temp. to Germinate (°F)": "39–41",
+      "Cold Hardiness": "Hardy",
+      "When to Fertilize": "Before spring planting",
+      "When to Water": "Once a week"
+   },
+   "Spinach": {
+      "Start Seeds Indoors (weeks before last spring frost)": "—",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "4–6 before",
+      "Minimum Soil Temp. to Germinate (°F)": "55–65",
+      "Cold Hardiness": "Hardy",
+      "When to Fertilize": "When plants are one-third grown",
+      "When to Water": "Once a week"
+   },
+   "Squash, summer": {
+      "Start Seeds Indoors (weeks before last spring frost)": "2–4",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "1 after",
+      "Minimum Soil Temp. to Germinate (°F)": "55–60",
+      "Cold Hardiness": "Very tender",
+      "When to Fertilize": "Just before vines start to run, when plants are about one foot tall",
+      "When to Water": "Only during drought conditions"
+   },
+   "Squash, winter": {
+      "Start Seeds Indoors (weeks before last spring frost)": "2–4",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "1 after",
+      "Minimum Soil Temp. to Germinate (°F)": "55–60",
+      "Cold Hardiness": "Tender",
+      "When to Fertilize": "Just before vines start to run, when plants are about one foot tall",
+      "When to Water": "Only during drought conditions"
+   },
+   "Tomatoes": {
+      "Start Seeds Indoors (weeks before last spring frost)": "6–8",
+      "Start Seeds Outdoors (weeks before or after last spring frost)": "—",
+      "Minimum Soil Temp. to Germinate (°F)": "50–55",
+      "Cold Hardiness": "Tender",
+      "When to Fertilize": "Two weeks before, and after first picking",
+      "When to Water": "Twice a week"
+   }
+}

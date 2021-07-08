@@ -6,6 +6,8 @@
       {
         "root": ["."],
         "alias": {
+          "data": "./src/data",
+          "features": "./src/components/features",
           "screens": "./src/components/screens",
           "components": "./src/components"
         }
