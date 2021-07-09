@@ -36,6 +36,7 @@ export default function ItemList({ navigation }) {
           data={searchFilter}
           renderItem={renderItem}
           keyExtractor={(item) => item.name}
+          // ItemSeparatorComponent={Separator}
         />
       </View>
 

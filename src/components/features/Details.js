@@ -33,18 +33,22 @@ export default function DetailView({ navigation, route }) {
 const style = StyleSheet.create({
   table: {
     flex: 1,
-    margin: 0,
+    margin: 10,
+    borderBottomWidth: 1,
+    borderBottomColor: 'hsla(0,0%,0%,0.1)',
+    justifyContent: 'center',
+
   },
   rowHead: {
-    flex: 1,
     flexDirection: 'column',
-    justifyContent: 'center',
+    flexWrap: 'wrap',
+    justifyContent: 'space-between',
     alignItems: 'center',
-    paddingTop: 20,
+    paddingBottom: 10,
   },
   rowEntry: {
     flex: 1,
-    justifyContent: 'flex-start',
+    paddingBottom: 10,
     alignItems: 'center',
     fontSize: 20,
   },

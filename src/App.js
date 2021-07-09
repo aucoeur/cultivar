@@ -67,7 +67,8 @@ function App() {
                 fontSize: 12
               },
               style: {
-                backgroundColor: 'darkgreen'
+                backgroundColor: 'darkgreen',
+                paddingTop: 10,
               }
             }}
           >
