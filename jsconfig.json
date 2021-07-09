@@ -18,6 +18,9 @@
       "components/*": [
         "./components/*"
       ],
+      "reducers/*": [
+        "./reducers/*"
+      ],
     },
   },
   "exclude": ["node_modules"],

@@ -10,7 +10,6 @@ export default function DetailView({ navigation, route }) {
   return (
     <SafeAreaView style={style.container}>
       <View style={style.listContainer}>
-        {/* <Text style={style.name}>{item.name}</Text> */}
         { objs.map((obj) => (
 
           <View style={style.table} key={obj[0]}>

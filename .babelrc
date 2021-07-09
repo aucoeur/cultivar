@@ -10,7 +10,8 @@
           "assets": "./src/assets",
           "features": "./src/components/features",
           "screens": "./src/components/screens",
-          "components": "./src/components"
+          "components": "./src/components",
+          "reducers": "./src/reducers"
         }
       }
     ]
