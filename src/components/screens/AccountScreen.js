@@ -22,6 +22,6 @@ const style = StyleSheet.create({
   header: {
     fontSize: 42,
     fontWeight: 'bold',
-    color: 'darkgreen',
+    color: 'rgba(73, 130, 85, 1)',
   },
 });

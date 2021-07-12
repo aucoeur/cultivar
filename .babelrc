@@ -9,6 +9,7 @@
           "data": "./src/data",
           "assets": "./src/assets",
           "features": "./src/components/features",
+          "layout": "./src/components/layout",
           "screens": "./src/components/screens",
           "components": "./src/components",
           "reducers": "./src/reducers"

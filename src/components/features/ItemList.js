@@ -10,13 +10,13 @@ import {
 
 import Search from 'features/Search';
 import Item from 'features/Item';
+import Separator from 'layout/Separator';
 
-import { veggieObjs } from 'data/utils';
-
-export default function ItemList({ navigation }) {
+export default function ItemList({ route, navigation }) {
   const [search, setSearch] = useState('');
+  const { data } = route.params;
 
-  const searchFilter = veggieObjs.filter((item) => item.name.includes(search)
+  const searchFilter = data.filter((item) => item.name.includes(search)
     || item.name.toLowerCase().includes(search));
 
   const renderItem = ({ item }) => (
@@ -36,7 +36,7 @@ export default function ItemList({ navigation }) {
           data={searchFilter}
           renderItem={renderItem}
           keyExtractor={(item) => item.name}
-          // ItemSeparatorComponent={Separator}
+          ItemSeparatorComponent={Separator}
         />
       </View>
 

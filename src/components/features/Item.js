@@ -31,10 +31,10 @@ const style = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'space-between',
 
-    paddingLeft: 10,
+    padding: 5,
     width: '100%',
   },
   headText: {
-    fontSize: 25,
+    fontSize: 20,
   },
 });

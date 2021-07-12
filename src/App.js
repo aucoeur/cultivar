@@ -14,7 +14,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 
 import HomeScreen from 'screens/HomeScreen';
-import InfoScreen from 'screens/InfoScreen';
+import ListScreen from 'screens/ListScreen';
 import CollectionScreen from 'screens/CollectionScreen';
 import AccountScreen from 'screens/AccountScreen';
 
@@ -62,18 +62,18 @@ function App() {
             })}
             tabBarOptions={{
               activeTintColor: 'white',
-              inactiveTintColor: 'lightgrey',
+              inactiveTintColor: 'rgba(255,255,255,0.8)',
               labelStyle: {
                 fontSize: 12
               },
               style: {
-                backgroundColor: 'darkgreen',
+                backgroundColor: 'rgba(73, 131, 85, 0.8);',
                 paddingTop: 10,
               }
             }}
           >
             <Tab.Screen name="Home" component={HomeScreen} />
-            <Tab.Screen name="Info" component={InfoScreen} />
+            <Tab.Screen name="Info" component={ListScreen} />
             <Tab.Screen name="My Plants" component={CollectionScreen} />
             <Tab.Screen name="Account" component={AccountScreen} />
           </Tab.Navigator>

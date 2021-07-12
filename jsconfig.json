@@ -12,6 +12,9 @@
       "features/*": [
         "./components/features/*"
       ],
+      "layout/*": [
+        "./components/layout/*"
+      ],
       "screens/*": [
         "./components/screens/*"
       ],

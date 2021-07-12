@@ -28,7 +28,7 @@ const style = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: 'space-between',
-    backgroundColor: 'rgba(165, 222, 150, 1)',
+    backgroundColor: 'rgba(75, 231, 85, 0.2)',
     paddingTop: 80,
   },
   title: {
@@ -38,7 +38,7 @@ const style = StyleSheet.create({
   header: {
     fontSize: 60,
     fontWeight: 'bold',
-    color: 'darkgreen',
+    color: 'rgba(73, 130, 85, 1)',
   },
   bg: {
     flex: 1,
