@@ -1,10 +1,13 @@
-# cultivar - 
-FEW 2.4 ReactNative Final Project 
+# cultivar - a work in progress
+ReactNative app for aspiring garden enthusiasts and dirt friends
 
-## a work in progress 
 <div style="text-align:center">
-<img src="./docs/screenshotv1.png" width="400">
-<img src="./docs/wireframes-draft.png" width="400">
+<img src="./docs/screenshotv2.png" width="300">
+</div>
+
+## wireframes
+<div style="text-align:center">
+<img src="./docs/wireframes-draft.png" width="500">
 </div>
 
 # Resources
